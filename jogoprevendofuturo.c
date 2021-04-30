@@ -6,6 +6,9 @@
 
 
 int main(void) {
+    
+  código
+}
 
 
 char* banco [3];  /* variáveis char para armazenar as respostas*/
